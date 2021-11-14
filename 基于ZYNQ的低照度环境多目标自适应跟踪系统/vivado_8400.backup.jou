@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Jun 27 13:53:28 2021
+# Process ID: 8400
+# Current directory: E:/FPGA_project/baisc
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21396 E:\FPGA_project\baisc\video_ov5640.xpr
+# Log file: E:/FPGA_project/baisc/vivado.log
+# Journal file: E:/FPGA_project/baisc\vivado.jou
+#-----------------------------------------------------------
+start_gui

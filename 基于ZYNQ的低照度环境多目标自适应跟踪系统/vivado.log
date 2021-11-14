@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Oct 13 21:49:26 2021
+# Process ID: 55828
+# Current directory: E:/video_ov5640_v12
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent60764 E:\video_ov5640_v12\video_ov5640.xpr
+# Log file: E:/video_ov5640_v12/vivado.log
+# Journal file: E:/video_ov5640_v12\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Oct 13 21:49:58 2021...
