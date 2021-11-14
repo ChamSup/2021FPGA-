@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="system_processing_system7_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_vdma_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_axi_vdma_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_v_vid_in_axi4s_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_v_vid_in_axi4s_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_v_axi4s_vid_out_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_v_axi4s_vid_out_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_proc_sys_reset_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_proc_sys_reset_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_clk_wiz_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_clk_wiz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_smartconnect_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_smartconnect_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_xbar_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_vdma_1_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_axi_vdma_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="system_axi_vdma_0_0_synth_1"/>
+	</Run>
+	<Run Id="system_inner_ctrl_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_inner_ctrl_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_video_concat_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_video_concat_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_video_divide_0_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_video_divide_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_hls_main_1_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_hls_main_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_auto_pc_0_synth_1" LaunchDir="D:/video_ov5640_v12/video_ov5640.runs/system_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+
